@@ -1,0 +1,240 @@
+.portfolio{
+	width: 100%;
+	background: #231f1b;
+	padding-bottom: 30px;
+	display: inline-block;
+}
+.portfolio .margin{
+	margin: 0 7%;
+}
+.portfolio .portfolio_h3{
+	color: #fff;
+	margin-top: 70px;
+	text-align: center!important;
+	letter-spacing: 1px;
+	font-family: 'Rancho', cursive;
+}
+.portfolio .portfolio_h1{
+	color: #fff;
+	text-align: center;
+	font-family: 'Rancho', cursive;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	font-weight: 100;
+	margin-bottom: 50px;
+}
+.portfolio .portfolio1, .portfolio .portfolio2, .portfolio .portfolio3{
+	padding-left: 0;
+	padding-right: 0;
+}
+.portfolio img{
+	width: 100%;
+	transition: 0.5s;
+}
+.portfolio1 .por1_child1{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio1 .por1_child2{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio1 .por1_child3{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio2 .por2_child1{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio2 .por2_child2{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio2 .por2_child3{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio2 .por2_child4{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio3 .por3_child1{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio3 .por3_child2{
+	position: relative;
+	overflow: hidden;
+}
+.portfolio3 .por3_child3{
+	position: relative;
+	overflow: hidden;
+}
+
+
+
+.portfolio1 .por1_child1 img{
+	height: 300px;
+}
+.portfolio1 .por1_child2 img{
+	height: 500px;
+}
+.portfolio1 .por1_child3 img{
+	height: 400px;
+}
+.portfolio2 .por2_child1 img{
+	height: 400px;
+}
+.portfolio2 .por2_child2 img{
+	height: 300px;
+}
+.portfolio2 .por2_child3 img{
+	height: 300px;
+}
+.portfolio2 .por2_child4 img{
+	height: 300px;
+}
+.portfolio3 .por3_child1 img{
+	height: 500px;
+}
+.portfolio3 .por3_child2 img{
+	height: 400px;
+}
+.portfolio3 .por3_child3 img{
+	height: 400px;
+}
+
+
+.por1_child1:hover.por1_child1 img{
+	transform: scale(1.5);
+}
+.por1_child2:hover.por1_child2 img{
+	transform: scale(1.5);
+}
+.por1_child3:hover.por1_child3 img{
+	transform: scale(1.5);
+}
+.por2_child1:hover.por2_child1 img{
+	transform: scale(1.5);
+}
+.por2_child2:hover.por2_child2 img{
+	transform: scale(1.5);
+}
+.por2_child3:hover.por2_child3 img{
+	transform: scale(1.5);
+}
+.por2_child4:hover.por2_child4 img{
+	transform: scale(1.5);
+}
+.por3_child1:hover.por3_child1 img{
+	transform: scale(1.5);
+}
+.por3_child1:hover.por3_child1 img{
+	transform: scale(1.5);
+}
+.por3_child2:hover.por3_child2 img{
+	transform: scale(1.5);
+}
+.por3_child3:hover.por3_child3 img{
+	transform: scale(1.5);
+}
+
+
+.portfolio .up_cover{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	background: #0000007d;
+	display: none;
+}
+.up_cover h4{
+	color: #fff;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: 'Rancho', cursive;
+	letter-spacing: 1px;
+	transition: 0.5s;
+}
+.up_cover h4:hover{
+	color: #ba893f;
+}
+.up_cover a:hover{
+	text-decoration: none;
+}
+.up_cover p{
+	text-align: center;
+	color: #fff;
+}
+.up_cover p a{
+	color: #fff;
+	transition: 0.5s;
+}
+.up_cover p a:hover{
+	color: #ba893f;
+	text-decoration: none;
+}
+
+
+.por1_child1:hover .up_cover{
+	display: block;
+}
+.por1_child2:hover .up_cover{
+	display: block;
+}
+.por1_child3:hover .up_cover{
+	display: block;
+}
+.por2_child1:hover .up_cover{
+	display: block;
+}
+.por2_child2:hover .up_cover{
+	display: block;
+}
+.por2_child3:hover .up_cover{
+	display: block;
+}
+.por2_child4:hover .up_cover{
+	display: block;
+}
+.por3_child1:hover .up_cover{
+	display: block;
+}
+.por3_child2:hover .up_cover{
+	display: block;
+}
+.por3_child3:hover .up_cover{
+	display: block;
+}
+
+.up_cover_h41{
+	margin-top: 120px;
+}
+.up_cover_h42{
+	margin-top: 220px;
+}
+.up_cover_h43{
+	margin-top: 220px;
+}
+.up_cover_h44{
+	margin-top: 160px;
+}
+.up_cover_h45{
+	margin-top: 120px;
+}
+.up_cover_h46{
+	margin-top: 120px;
+}
+.up_cover_h47{
+	margin-top: 120px;
+}
+.up_cover_h48{
+	margin-top: 220px;
+}
+.up_cover_h49{
+	margin-top: 170px;
+}
+.up_cover_h410{
+	margin-top: 170px;
+}
